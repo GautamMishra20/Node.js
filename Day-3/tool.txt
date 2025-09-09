@@ -1,0 +1,3 @@
+npm init :- 
+            The npm init command is used to set up a new or existing Node.js project or package by creating a package.json file in the project's root directory. This file serves as the core of your npm project, containing essential metadata and configuration.
+
